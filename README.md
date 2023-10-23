@@ -10,4 +10,4 @@ K-LMS上でpdfファイルにアクセスする際に直接ブラウザ上のPDF
 
 ## インストール
 - https://github.com/yi7242/KLMS-PDF/raw/main/klmspdf.user.js からインストール
-- SOL上でpdfファイルを開くと自動的にpdfビューワーが開きます
+- K-LMS上でpdfファイルを開くと自動的にpdfビューワーが開きます
